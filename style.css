@@ -1,0 +1,13 @@
+body {
+    background-image: linear-gradient(white,gray);
+    background-repeat: no-repeat;
+}
+canvas {
+    border-radius: 10px;
+    margin-top: 200px;
+    box-shadow: 5px 5px 5px gray;
+}
+.noidea {
+    display: inline-block;
+    margin-left: 5px;
+}
